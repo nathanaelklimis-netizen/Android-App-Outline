@@ -43,4 +43,9 @@ Wireframes will illustrate the layout of these screens, including the placement 
 This repository will store the project outline, design notes, and future implementation files.  
 - The **README** contains the high‑level outline and project goals.  
 - The **Wiki** will expand on requirements, user stories, and updated wireframes as the app evolves over the term.
+  
+## Wiki
+
+The full project outline is also available in the
+[Project Outline Wiki](../../wiki/Project-Outline).
 Add project outline to README
