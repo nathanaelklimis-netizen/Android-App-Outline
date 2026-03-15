@@ -33,3 +33,6 @@
 - Repo purpose:
 - Link to Wiki:
   
+## Wiki
+
+For more details, see the [Project Outline Wiki](../../wiki/Project-Outline).
