@@ -1,2 +1,35 @@
 # Android-App-Outline
-Android app project for my course. This repo contains the outline, goals, planned features, platform details, and initial UI wireframes. The README and Wiki will be updated as the app is designed and developed over the term.
+
+## I. Project Description
+- App name:
+- Summary:
+- Target users:
+- Goals for this term:
+
+## II. Problem Addressing
+- Problem:
+- Why it matters:
+- Current workaround:
+- How the app helps:
+
+## III. Platform
+- Platform:
+- Development tools:
+
+## IV. Front/Back End Support
+- Front end:
+- Back end:
+
+## V. Functionality
+- Core features:
+- Stretch features:
+
+## VI. Design (Wireframes)
+- Planned screens:
+- Navigation:
+- Wireframe notes:
+
+## VII. GitHub Usage
+- Repo purpose:
+- Link to Wiki:
+  
