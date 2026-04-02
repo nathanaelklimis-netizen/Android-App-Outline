@@ -55,10 +55,6 @@ This repository stores the project outline, design notes, and future implementat
 - The **README** provides the high-level project summary and technical direction.
 - The **Wiki** expands on app design, requirements, user-centered planning, conversation design concepts, digital infrastructure, and wireframe development.
 
-## Wiki
-For full project documentation, see the  
-[Project Wiki](../../wiki/Home)
-
 ## Documentation
 
 - [Project Wiki](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki)
