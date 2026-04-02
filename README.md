@@ -1,26 +1,3 @@
-Absolutely — below is a ready-to-paste replacement README.md that keeps your repository consistent with the GearCheck concept and your Wiki content.
-
-Since your current README is still about TaskTrackr, you should replace that entire content with the version below so your repo, Wiki, and discussion all match the same app idea.
-
-What to do
-Step 1
-Go to your GitHub repository:
-
-nathanaelklimis-netizen/Android-App-Outline
-
-Step 2
-Click README.md
-
-Step 3
-Click the pencil/edit icon
-
-Step 4
-Delete everything currently in README.md
-
-Step 5
-Copy and paste the full text below into README.md
-
-text
 # GearCheck – Android App Project Outline
 
 ## Project description
