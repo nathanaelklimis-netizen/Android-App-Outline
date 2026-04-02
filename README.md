@@ -59,6 +59,10 @@ This repository stores the project outline, design notes, and future implementat
 For full project documentation, see the  
 [Project Wiki](../../wiki/Home)
 
+## Documentation
+
+- [Project Wiki](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki)
+
 ## References
 Hyman, H. (2015). Exploring innovation in technology from the perspective of entrepreneurship and invention. *Science and Technology, 5*(2), 21–25. https://doi.org/10.5923/j.scit.20150502.01
 
