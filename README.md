@@ -63,7 +63,7 @@ Additional project documentation is available in the GitHub Wiki:
 - [App Design](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki/App-Design)
 - [Wireframes and Screens](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki/Wireframes-and-Screens)
 - [Architecture and Infrastructure](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki/Architecture-and-Infrastructure)
-- [References](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki/References
+- [References](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki/References)
 
 ## Repository
 
