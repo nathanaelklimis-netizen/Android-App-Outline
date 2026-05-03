@@ -56,13 +56,14 @@ GearCheck provides a simple checklist-based approach that allows users to:
 ## Documentation
 
 Additional project documentation is available in the GitHub Wiki:
-- [[Home]]
-- [[Project-Overview]]
-- [[Project-Outline]]
-- [[App-Design]]
-- [[Wireframes-and-Screens]]
-- [[Architecture-and-Infrastructure]]
-- [[References]]
+
+- [Wiki Home](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki)
+- [Project Overview](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki/Project-Overview)
+- [Project Outline](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki/Project-Outline)
+- [App Design](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki/App-Design)
+- [Wireframes and Screens](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki/Wireframes-and-Screens)
+- [Architecture and Infrastructure](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki/Architecture-and-Infrastructure)
+- [References](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki/References
 
 ## Repository
 
