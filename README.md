@@ -1,72 +1,69 @@
 # GearCheck
 
+GearCheck is an Android application designed to help users avoid forgetting important gear before departure by using structured, reusable checklists.
+
 ## Overview
-GearCheck is an Android app that helps users confirm they have packed all essential gear before departure. It is designed for military personnel, athletes, travelers, rescue teams, and other users who depend on organized equipment readiness in time-sensitive situations.
+
+GearCheck solves a common real-world problem: users often forget items when preparing for school, work, travel, training, or outdoor activities. The app is designed to help users organize and review important gear before leaving.
 
 ## Problem
-Many users rely on memory, paper notes, or scattered lists when preparing equipment for travel, training, or work. This can lead to forgotten items, wasted time, extra cost, and safety risks. GearCheck provides a single mobile solution for organizing, reviewing, and confirming readiness before departure.
 
-## Current Status
-GearCheck is currently in early development. This repository contains the first implementation attempt of the Android app, along with planning and documentation that guide the project toward the final Week 8 submission.
+Many people rely on memory when packing or preparing to leave. This often results in forgotten items, delays, stress, inconvenience, and unnecessary extra cost.
 
-## Features in Progress
-- Basic Android project setup in Android Studio
-- Kotlin-based app development
-- Planning for checklist creation and checklist tracking
-- Initial app structure for future screen development
-- README and wiki documentation updates
+## Solution
 
-## Planned MVP Features
-- Create reusable gear checklists
-- Organize items by category
-- Mark items complete or incomplete
-- Reset checklists for repeated use
-- Store confirmation or signature data
-- Save checklist data for later access
+GearCheck provides a simple checklist-based approach that allows users to:
+- create gear checklists,
+- save reusable checklist templates,
+- review checklist items before departure,
+- and track completion status.
 
-## Stretch Goals
-- Departure reminders and notifications
-- Checklist templates for different missions, trips, or events
-- Priority labels for critical items
-- Voice-assisted checklist support
-- Readiness summaries or analytics
+## Platform
 
-## Target Users
-- Military personnel
-- Athletes
-- Travelers
-- Rescue or response teams
-- Professionals who depend on equipment readiness
+- Android mobile application
+- Local-first design direction
+- Future cloud-ready expansion possible
 
-## Technology Stack
-- Android Studio
-- Kotlin
-- Material Design principles for Android UI
-- Firebase for cloud-based storage and future synchronization
+## Front-End Support
 
-Material Design helps provide consistent Android UI components and patterns, while Firebase supports Android app data storage and synchronization through its Android SDKs. [web:32][web:44]
+- Android user interface
+- Checklist creation and editing
+- List and detail views
+- Simple navigation workflow
 
-## Planned Screens
-- Home Screen
-- Checklist Screen
-- Add/Edit Checklist Screen
-- Signature/Confirmation Screen
-- Settings/About Screen
+## Back-End Support
 
-## Repository Purpose
-This repository stores the current Android app implementation for GearCheck and tracks project progress over time. It supports the course requirement to move from concept planning into active app development.
+- Local data storage
+- Repository-based architecture direction
+- Future cloud synchronization potential
 
-## Project Documentation
-- [Project Wiki](https://github.com/nathanaelklimis-netizen/Android-App-Outline/wiki)
+## Core Features
 
-## Next Steps
-- Build initial checklist UI screens
-- Add local or Firebase-backed checklist storage
-- Implement create, edit, save, and reset actions
-- Improve navigation and screen flow
-- Continue updating documentation to reflect progress
+- Create checklists
+- Add gear items
+- Edit and delete items
+- Save reusable checklist templates
+- Mark items as complete
+- Review checklist progress
 
-## References
-Hyman, H. (2015). Exploring innovation in technology from the perspective of entrepreneurship and invention. Science and Technology, 5(2), 21–25. https://doi.org/10.5923/j.scit.20150502.01
+## Design Goals
 
-Shaistha Farheen. (2026). Android application development - An innovative step towards mobile technology. YourStory. https://yourstory.com/mystory/f1b102c527-android-application-de
+- Clear usability
+- Fast checklist review
+- Simple screen flow
+- Practical mobile interaction
+
+## Documentation
+
+Additional project documentation is available in the GitHub Wiki:
+- [[Home]]
+- [[Project-Overview]]
+- [[Project-Outline]]
+- [[App-Design]]
+- [[Wireframes-and-Screens]]
+- [[Architecture-and-Infrastructure]]
+- [[References]]
+
+## Repository
+
+[GearCheckApp – First Attempt](https://github.com/nathanaelklimis-netizen/GearCheckApp)
