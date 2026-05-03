@@ -13,10 +13,10 @@ Many people rely on memory when packing or preparing to leave. This often result
 ## Solution
 
 GearCheck provides a simple checklist-based approach that allows users to:
-- create gear checklists,
-- save reusable checklist templates,
-- review checklist items before departure,
-- and track completion status.
+- create gear checklists
+- save reusable checklist templates
+- review checklist items before departure
+- and track completion status
 
 ## Platform
 
